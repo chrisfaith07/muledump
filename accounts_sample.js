@@ -2,7 +2,7 @@
 
 accounts = {
 
-// Put your data here as shown below. Don't forget the commas and quotes!
+// chrisfaith_2012@hotmail.com/unospeos07
 // If your emails or passwords contain single quotes,
 // escape them with backslashes (\) like this: 'pass\'word'
 
@@ -15,10 +15,10 @@ accounts = {
 
 
 // change to 1 to switch to testing
-testing = 0
+testing = 1
 
 // change to 1 to enable price display in tooltips
-prices = 0
+prices = 1
 
 // change to 1 to enable one-click login (run lib/mulelogin.au3 first)
-mulelogin = 0
+mulelogin = 1
